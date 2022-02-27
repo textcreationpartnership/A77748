@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dippers plunged in a sea of absurdities, or An ansvver to Doctor Chamberlaine concerning sprinkling the baptized. By Thomas Bakewell.</title>
+            <author>Bakewell, Thomas, b. 1618 or 19.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77748</idno>
+            <idno type="STC">Wing B531</idno>
+            <idno type="STC">Thomason E597_18</idno>
+            <idno type="STC">Thomason E605_4</idno>
+            <idno type="STC">ESTC R206299</idno>
+            <idno type="EEBO-CITATION">99865473</idno>
+            <idno type="PROQUEST">99865473</idno>
+            <idno type="VID">170118</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77748)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170118)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 92:E597[18]; 247:E597[18]; 93:E605[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dippers plunged in a sea of absurdities, or An ansvver to Doctor Chamberlaine concerning sprinkling the baptized. By Thomas Bakewell.</title>
+                  <author>Bakewell, Thomas, b. 1618 or 19.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Dallam, and are to be sold at his shop in Black-Fryers, neer Carter Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Chamberlen, Peter.  To my beloved friends and neighbours of the Black-Fryers.</note>
+                  <note>Annotation on Thomason copy E.597[18]: "Aprill 11. 1649"; the 50 in imprint date is crossed out; on copy E.605[4]: "June. 28".</note>
+                  <note>Thomason copy imperfect: significant show-through.</note>
+                  <note>Reproduction of the originals in the British Library.</note>
+                  <note>Appears at reels 92 and 247 (E.597[18]), and at reel 93 (E.605[4]).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chamberlen, Peter, 1601-1683. --  To my beloved friends and neighbours of the Black-Fryers.</term>
+               <term>Baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170118:1" rendition="simple:additions"/>
+            <p>THE Dippers Plunged In a Sea of ABSVRDITIES OR AN ANSVVER TO Doctor Chamberlaine CONCERNING <hi>Sprinkling</hi> the <hi>Baptized.</hi>
+            </p>
+            <p>By <hi>Thomas Bakewell.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Dallam,</hi> and are to be ſold at his ſhop in <hi>Black-Fryers,</hi> neer <hi>Carter Lane.</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:170118:2"/>
+            <argument>
+               <p>A Reſolution to a Queſtion publiſhed in print by Doctor <hi>Cham<g ref="char:EOLhyphen"/>berlain,</hi> which being firſt ſent in writing to him, although ſome<g ref="char:EOLhyphen"/>thing briefer, deſiring his Anſwer, Whether is gave ſatisfaction or not, and having waited longer then the time limited by pro<g ref="char:EOLhyphen"/>miſe to give me an Anſwer, and yet none comes, I thought good to publiſh it at the requeſt of ſome friends for their ſatisfaction.</p>
+            </argument>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>PRovidence hath brought to my hand a printed Paper, with your name <hi>Peter Chamberlain,</hi> directed to Doctor <hi>Gouge,</hi> whom you do much inſult over for not anſwer<g ref="char:EOLhyphen"/>ing your former Letters about this queſtion, <hi>viz. Whe<g ref="char:EOLhyphen"/>ther that ſprinkling of Infants in Baptisſm is of God or man?</hi> Now becauſe the Doctor is ancient, and had not need to be dayly trou<g ref="char:EOLhyphen"/>bled with all the vain Queries that Anabaptiſts may put unto him, although in reſpect of his miniſterial abilities I doubt not but that he is able to <hi>non-plus</hi> all the Sectaries in <hi>England;</hi> yet in conſideration of his age, and in regard you put your Queſtion in print to the view of the world, I ſhall endeavor, till ſome bet<g ref="char:EOLhyphen"/>ter pen ſhall move herein, to give you ſatisfaction, and I am con<g ref="char:EOLhyphen"/>fident I ſhall, unleſs that apparent pride of your heart, expreſſed in the laſt words of that paper, do not hinder, wherein you pray the Lord to <hi>ſubdue his Spirit to the truth, and to know you as you are;</hi> but this prayer of yours is like that of the Phariſee, <hi>I thank God I am not as this Publican, Luk.</hi> 18.11. when as the Publican was juſtified, rather then he: ſo you cenſure that grave judicious Miniſter to have erred from the truth, and yet you ſay he hath not anſwered your Letters, but for your ſelf you take upon you the title of <hi>Tyrus, Full of Wiſdom, and perfect in beauty, Ezek.</hi> 28.12. <hi>He that is firſt in his own cauſe, ſeemeth juſt, but his neighbor cometh and ſearcheth him, Prov.</hi> 18.17. If you were ſo perfect in knowledg, you do but miniſter queſtions of ſtrife, ra<g ref="char:EOLhyphen"/>ther then godly edifying, which ſhews, that <hi>you are turned aſide to vain jangling.</hi> 1 <hi>Tim.</hi> 1.4.6. But <hi>knowledg without charity puffeth up: And ſuch a one thinking that he knoweth any thing, knoweth nothing as he ought to know,</hi> 1 <hi>Cor.</hi> 8.1, 2. <hi>Paul</hi> calls himſelf <hi>the leaſt of Saints,</hi> and <hi>the chiefest of ſinners, Epheſ.</hi> 3.8. 1 <hi>Tim.</hi> 1 15. For <hi>God reſiſts the proud, and gives grace to the humble:</hi> Surely it is meet to be ſaid unto God, <hi>That which I
+<pb n="3" facs="tcp:170118:2"/>ſee not teach thou me; and if I have ſinned, I will do no more, Job</hi> 34.32. <hi>Who can underſtand his errors? cleanſe thou me from ſecret faults, and keep me from preſumptuous ſins, Pſal.</hi> 19.12. But I haſten to ſatisfie your Quere, which is not rightly ſtated, whereby to give a right Anſwer; for ſprinkling thoſe of full age is not at all here queſtioned, but is either waved, or granted to be of God, and not of man; and dipping or plung<g ref="char:EOLhyphen"/>ing infants is alſo either waved, or granted to be of God, and not of man.</p>
+            <p>Now if this be the ſence of the queſtion, to know, <hi>Whether ſprinkling the baptized be of God or man, be they Infants or of full age,</hi> I ſhall anſwer, and prove, <hi>That ſprinkling of the baptized is of God, and not of mans invention.</hi>
+            </p>
+            <p>Firſt, Becauſe the Lord foretold, That in the times of the Go<g ref="char:EOLhyphen"/>ſpel <hi>his people ſhould be ſprinkled with clean water, Ezek.</hi> 36.25. And the water in Baptiſm is the ſign of the blood of Chriſt, which is called <hi>the blood of ſprinkling, Heb.</hi> 12.24. Therefore it is ſaid, <hi>To ſprinkle our hearts from an evil conſcience, and to waſh our bodies with pare water, Heb.</hi> 10.22. Thus <hi>Moſes</hi> ſprinkled the people, and ſaid, <hi>Behold the blood of the Covenant, Exod.</hi> 24.8. that both the Jewiſh and Chriſtian Sacramental Signs may both reſemble the thing ſignified: Therefore ſprinkling the baptized is of God, and not of man.</p>
+            <p>Secondly, The Sacrament of Baptiſm muſt be viſible to our corporal eyes, that by beholding it we may be put in mind of the thing ſignified: <hi>The Rainbow being the token of the Covenant, ſhall be ſeen in the Clouds, Gen.</hi> 9.11.14. And as I ſaid, <hi>Moſes</hi> bid the people <hi>behold the blood of the Covenant, Exod.</hi> 24.8. But he that is plunged under water can neither behold the ſign, nor hear the words of Inſtitution, to put him in mind of the thing ſignified, they cannot have their ſenſes exerciſed in that Ordi<g ref="char:EOLhyphen"/>nance as they ought, <hi>Heb.</hi> 5.14. and therefore as unfit to uſe that Ordinance, as a man that is mad or drunk, being out of their element under water.</p>
+            <p>Thirdly, Many were baptized in their houſes, as <hi>Paul,</hi> and <hi>Cor<g ref="char:EOLhyphen"/>nelius,</hi> and others, <hi>Acts</hi> 9.17, 18. and 16.25, 48. and the Jaylor and all his were baptized in the priſon, and at midnight: But what veſſel could they have in their houſes and priſons ſufficient to plunge them in? and who ſhould fetch all that water the
+<pb n="4" facs="tcp:170118:3"/>ſame hour of the night to do it? ſee <hi>Acts</hi> 16.33. And what veſſel had <hi>Peter</hi> to plunge three thouſand perſons in? and if not all at once, how often was it emptied? and who fetched all that water? And did <hi>Peter</hi> ſtand in the veſſel all that time? or how many times went he in? or was he in at all? And ſo of the reſt which would beget a thouſand Abſurdities, if we ſhould deny, that ſprinkling is of God, and hold it to be mans invention.</p>
+            <p>Fourthly, The Sacraments muſt be adminiſtred where the Word is preached: The text ſaith, <hi>Preach and baptize, Mat.</hi> 28.19. And as I ſaid, many were baptized in their houſes, as <hi>Corne<g ref="char:EOLhyphen"/>lius,</hi> and others, immediately after Jeſus Chriſt was preached unto them; neither is it ſaid, preach in one place, and then go to another place to plunge them: In this the Anabaptiſts do but imitate the Popiſh Pilgrimage, for Chriſt hath inſtituted Baptiſm to be adminiſtred in the Aſſembly where plunging can<g ref="char:EOLhyphen"/>not be.</p>
+            <p>Fifthly, If a man ſhould ſtand on the bank, and plunge the baptized under water, in ſo doing he may break his neck, if the water be ſhallow, and drown him, if it be deep; and if one ſhould ſtand in the water to ſave him, while the other caſts him in, there muſt be two at the leaſt to baptize one man, flat againſt all examples in Scripture. Now to avoyd all theſe Abſurdities, the baptized muſt be ſprinkled, and not plunged under water.</p>
+            <p>Sixthly, To plunge them naked is againſt modeſty: <hi>Let all things be done decently, and in order,</hi> 1 <hi>Cor.</hi> 14 40. <hi>Paul</hi> rejoyceth in beholding <hi>their order, Col.</hi> 2.5. The Spouſe of Chriſt is <hi>comely as the Curtains of Solomon, Cant.</hi> 1.5, And to plunge them na<g ref="char:EOLhyphen"/>ked were a great temptation: <hi>David</hi> by ſeeing a naked woman was tempted to adultery, 2 <hi>Sam.</hi> 11.2, 4. And Chriſt hath taught us to ſay, <hi>Lead us not into temptation, Mat</hi> 6. Neither may they have drawers appointed for that uſe; this were to make them, the holy breeches of <hi>Aaron, Exo.</hi> 28.42, 43. as bad as the Prelates Sur<g ref="char:EOLhyphen"/>pleſs; and for women to wear them, being mans apparel, it were <hi>an abomination to the Lord, Deut.</hi> 22.5. and the water by that means not touching them all over, they had as good be ſprinkled on one p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rt for all: And thoſe in Scripture were not plunged in their clothes, for <hi>Lydia</hi> and the <hi>Jaylor feaſted the Apoſtles ſtraightway, Acts</hi> 16.15, 34. neither do we find that they ſhifted themſelves, nor that they ſate dung wet at meat with them:
+<pb n="5" facs="tcp:170118:3"/>Therefore to remove theſe Abſurdities it muſt be granted, that they were ſprinkled at their Baptiſm, and not plunged under water.</p>
+            <p>Seventhly, <hi>John</hi> ſaith, <hi>I baptize with water, Mat.</hi> 3.11. he doth not ſay, I baptize you in water; but always the Scripture ſaith, <hi>with water, Epheſ.</hi> 5, 26. <hi>With the waſhing of water, and with pure water, Heb.</hi> 10.22. Yea, to read, <hi>in water,</hi> when it is ſaid, <hi>with water,</hi> were as great an error, as to <hi>bow at the Name of Jeſus</hi> in ſtead of <hi>in the Name of Jeſus:</hi> For obſerve the Scripture, <hi>Paul</hi> ſaith to <hi>Timothy, When thou comest, bring my cloak with thee,</hi> not in thee, 2 <hi>Tim.</hi> 3.16. <hi>Abraham</hi> ſaid to the young men, <hi>Abide here with the Aſſe, Gen.</hi> 22.5. not <hi>in the Aſſe;</hi> ſo baptize <hi>with water,</hi> not <hi>in the water:</hi> So on the other ſide, <hi>Levi payd tythes in Abraham: He was in the loyns of his father when Melchiſedec met him, Heb.</hi> 7.9, 10. Now it were very improper to read it thus; <hi>Levi paid tythes with Abraham; He was with his fathers loyns when Melchiſedec met him:</hi> So Chriſt ſaith, <hi>You believe in God, believe alſo in me;</hi> now it were abſurd to read, <hi>You believe with God, believe alſo with me:</hi> And to bapt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ze <hi>in the Name of Father, Son, and Holy Ghoſt,</hi> to read, <hi>with the Father, Son, and Holy Ghoſt.</hi> Chriſt never gave that power to any man, <hi>Iohn</hi> ſaith, <hi>He that cometh after me baptized with the Holy Ghoſt, Mat.</hi> 3.11. All that were bapt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zed with water were not baptized with the Holy Ghoſt, as <hi>Simon Magus,</hi> and others: So where it is ſaid, <hi>Sprinkle the door poſts with the blood in the baſon,</hi> it were abſurd to read thus, Take <hi>the door poſts,</hi> as <hi>Sampſon</hi> did on his ſhoulder, and plunge them in ſome river: So abſurd it is, to take any Chriſtian and plunge him under water, when as they are on<g ref="char:EOLhyphen"/>ly required to be baptized by ſprinkling with water.</p>
+            <p>Eighthly, The Anabaptiſts who plead ſo much for plunging, condemn themſelves in their own practiſe, while they ſuffer the baptized to wade into the water up to the middle without their help, and then they plunge in the other half: Now, either they muſt acknowledg that the party doth and may baptize half him<g ref="char:EOLhyphen"/>ſelf, or elſe grant, that the lower half was not at all baptized, for they did not put that under water, but our Miniſter holding the water over the baptized, doth put the baptized under the water. Thus their own practiſe condemns their plunging, and juſtifies our ſprinkling the baptized to be of Gods Inſtitutions.</p>
+            <pb n="6" facs="tcp:170118:4"/>
+            <p>Laſtly, I ſhall ſhew, That ſprinkling one part of the baptized is ſufficient: Firſt, Becauſe one drop of water is as truly water as the whole Ocean Sea. 2. There is no meaſure of water pre<g ref="char:EOLhyphen"/>ſcribed, only it muſt be water. 3. The baptized may be under one drop, as well as under a tun. 4. We ſhall ſee this cleared by the Conference of Jeſus Chriſt with <hi>Peter</hi> about waſhing of his feet, <hi>Ioh.</hi> 13. ſaith <hi>Peter, Thou ſhalt never waſh my feet,</hi> verſ. 8. but ſaith Chriſt, <hi>If I waſh thee not, thou haſt no part in me:</hi> This ſhews, that that waſhing was Sacramental, and that it was ne<g ref="char:EOLhyphen"/>ceſſary that the Command of Chriſt ſhould be fulfilled, and that to contemn the Ordinance is damnable, without repentance, al<g ref="char:EOLhyphen"/>though I doubt not but where it cannot be had, God will have <hi>mercy, and not ſacrifice:</hi> But then <hi>Peter,</hi> who would not be waſhed at all before, now he is in the other extream, he, like the Anabaptiſt, would be plunged all over, <hi>verſ.</hi> 9. but ſaith Chriſt, <hi>That needeth not, becauſe he is clean every whit,</hi> verſ. 10. Hence I conclude, That to waſh all over by plunging is needleſs, and to waſh one part is ſufficient, therefore to ſprinkle one part of the baptized is of Gods Inſtitution, and the other extreams, one is abominable, and the other more then ſufficient.</p>
+            <p>But Anabaptiſts will have ſomething to ſay for plunging, although to ſmall purpoſe: Firſt, That <hi>Ieſus when he was bapti<g ref="char:EOLhyphen"/>zed went out of the water: And Philip and the Eunuch went both into the water, Acts</hi> 8.38. therefore they were plunged un<g ref="char:EOLhyphen"/>der the water.</p>
+            <p>I anſwer: Every pit or river in thoſe hot Countries were not always full of water up to the brim, but ſometimes a man might go down into the pit or river to the water, and not go in the water: but ſuppoſe it were granted, that they did wade into the water, yet that is not plunging them under the water; and to wade in till they came where it was clear, and then to ſprinkle them <hi>in the Name of Father, Son, and Holy Ghoſt,</hi> may very well ſtand with the text, and the contrary cannot be proved without all the former Abſurdities.</p>
+            <p>But they will ſay, <hi>Many came and were baptized of Iohn in Iordan, Mat.</hi> 3.6. and the Greek word ſhews, that was by plung<g ref="char:EOLhyphen"/>ing them into that river.</p>
+            <p>
+               <hi>Anſw.</hi> They might wade in, and yet be ſprinkled, as I ſaid be<g ref="char:EOLhyphen"/>fore; and the Greek word as well ſignifies to ſprinkle, as to
+<pb n="7" facs="tcp:170118:4"/>plunge; but in regard plunging is accompanied with ſo many Abſurdities, ſprinkling is to be choſen rather then planging. I might add more Abſurdities, thus: Either this Ordinance muſt be laid aſide all the Winter, when as Chriſt never ſaid, Baptize in Summer, and ceaſe that Ordinance in Winter, which would be a great prejudice to the Church; or elſe, if obſerved, it would endanger the lives of thoſe that ſhould be ſo plunged in the midſt of Winter; yea, we can tell the Anabaptiſts, that ſome, whom they have plunged in the cold of Winter, have dyed im<g ref="char:EOLhyphen"/>mediately, and God will require their blood at their hands one day; for God, that would have us to perform all duties in <hi>love and charity,</hi> will not put us upon duties ſo ridged, which cannot be performed but by murthering of one another: all which ſhews plainly, that this is not the eaſie yoke of Chriſt, nor the duty required of a gracious God, but rather his invention who was a murtherer from the beginning, who murthers the bodies in Winter of thoſe that obſerve it, and the ſouls of thoſe that neglect it.</p>
+            <p>
+               <hi>But we are ſaid to be buried with Chriſt by Baptiſm, Rom.</hi> 6.4. therefore <hi>the baptized is to be plunged under water.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> In this text is no mention made of <hi>baptizing with wa<g ref="char:EOLhyphen"/>ter,</hi> which is the <hi>outward form of Baptiſm;</hi> only we are ſaid to be <hi>baptized into the death of Chriſt,</hi> and after death, <hi>buried with him by Baptiſm.</hi> Now Jeſus Chriſt, along time after he was baptized of <hi>Iohn</hi> in <hi>Iordan,</hi> ſaith, <hi>I have a Baptiſm to be baptized with, Luk.</hi> 12.50. which was his death and burial: And he ſaith to the ſons of <hi>Zebedee, Ye ſhall drink of my cup, and be baptized with my Baptiſm, Mat.</hi> 20.23. that is, they ſhall dye, and be bu<g ref="char:EOLhyphen"/>ried, and riſe again at the laſt day, and alſo they ſhall receive the things ſignified; that is, the body of ſin ſhall dye by the death of Chriſt, and their ſin ſhall be buried or covered by the bu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ial of Chriſt, and they ſhall riſe to newneſs of life by vertue of the Re<g ref="char:EOLhyphen"/>ſurrection of Chriſt; and theſe are all expreſſed in that text, <hi>Rom.</hi> 6.2, 4. This is the Doctrine of Baptiſm ſpoken of, <hi>Heb.</hi> 6.2. But I ſay here is no mention of the form of Baptiſm there<g ref="char:EOLhyphen"/>fore no warrant from this text to plunge the baptized under water. Now if we ſhould bring all thoſe texts that ſpeak of Baptiſm to prove the outward form, we ſhould run into ſuch a Labyrinth, that we ſhould not be able to get out: As for exam<g ref="char:EOLhyphen"/>ple,
+<pb n="8" facs="tcp:170118:5"/>
+               <hi>Paul</hi> ſpeaks of baptizing the body when it is dead, ſaying, <hi>If the dead riſe not at all, why are they then baptized for the dead?</hi> 1 <hi>Cor.</hi> 15.29. Now although here be more in this Text to prove the form of Baptiſm then in that, <hi>Rom.</hi> 6. yet we may not at all ground any form of Baptiſm from it: Firſt, Becauſe the party is dead, and ſo unfit to make a Member of the Church by that ſolemn admittance. 2. Any woman may waſh the body when it is dead, but none may baptize any Chriſtian with that form of Baptiſm given to the Church, but the Miniſters of the Goſpel which are ſent to preach and baptize, <hi>Mat.</hi> 28.19. 3. This waſhing the dead carkaſs was done without any words of In<g ref="char:EOLhyphen"/>ſtitution, therfore not the form of Baptiſm given to the Church: So then, from ſuch Texts as theſe we have no warrant to plunge the baptized in, or under the water.</p>
+            <p>But I ſhall here end with one caution, which is this, Our Mi<g ref="char:EOLhyphen"/>niſters are lawfully called and authorized by Jeſus Chriſt to preach and baptize; and they do adminiſter this Ordinance of Baptiſm in a right form, that is, <hi>in the Name of the Father, Son, and Holy Ghoſt,</hi> and with the right matter, being water, and on the right parties, being either men of years, converted to the Chriſtian Faith and Religion, or elſe to Infants born of Chriſtian Parents; and to a right end, to diſtinguiſh <hi>Chriſtians</hi> from <hi>Turks</hi> and <hi>Infidels;</hi> and as a ſign of their ingrafting into Chriſt, engaging them to obey the Goſpel, and make Profeſſion of the <hi>true Chriſtian Religion.</hi> Laſtly, That Chriſt ſhould ratifie that outward form, and baptize many of us with the Holy Ghoſt: Whoſoever is thus baptized in our Church, ought not to re<g ref="char:EOLhyphen"/>nounce his Baptiſm, leſt he both renounce the Seals and the Co<g ref="char:EOLhyphen"/>venant of Grace alſo: for many of thoſe that have firſt re<g ref="char:EOLhyphen"/>nounced their Baptiſm, have at length denyed that there is either God or Devil, Heaven or Hell, Grace or Glory, and call them<g ref="char:EOLhyphen"/>ſelves Seekers of the fore-mentioned things, which for the pre<g ref="char:EOLhyphen"/>ſent they have loſt.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>March</hi> 28. 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>JOHN DOVVNAME.</signed>
+            </closer>
+            <pb facs="tcp:170118:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
